@@ -5,6 +5,7 @@ public class DevClasss {
         System.out.println("DevClass");
         //Forking Process Checked succesfully !
         //new changes in Fork according to tutorial
+        //done forking
          System.out.println("Forking done via another account");
     }
 }
